@@ -1,8 +1,0 @@
-Project: Predict student pass/fail
-1. Collect STUDENT dataset
-2. Preprocess dataset
-3. Split it into train/test set
-4. Train Decision Tree and Random Forest Models
-5. Predict Pass/Fail for test data
-6. Evaluate accuracy
-7. Compare accuracy between Decision Tree model and Random Forest Model
