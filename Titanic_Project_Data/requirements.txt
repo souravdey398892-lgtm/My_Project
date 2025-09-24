@@ -1,6 +1,4 @@
-Load a dataset (Titanic from Kaggle), clean it, and make simple graphs
-
-1. Download dataset from Kaggle and load it
-2. Fill the nAN values in 'Age' Column with median value
-3. Remove unwanted columns (Name, Ticket)
-4. Make 3 graphs: Survival by gender (bar plot), Survival by passenger class (bar plot) and Age distribution of survivors (histogram)
+pandas==2.3.2
+matplotlib==3.10.6
+seaborn==0.13.2
+numpy==2.3.3
