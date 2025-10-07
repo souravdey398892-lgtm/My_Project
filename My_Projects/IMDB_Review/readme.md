@@ -46,7 +46,7 @@ It is downloaded from : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dat
 
 -\*\*Clone the repository\*\*:
 
-git clone <your-repo-url>
+git clone <https://github.com/souravdey398892-lgtm/My_Project/tree/master/My_Projects/IMDB_Review>
 
 
 
