@@ -84,7 +84,7 @@ This project builds a spam detection model using text preprocessing, feature ext
 
 ```bash
 
-Clone Repo: git clone <>
+Clone Repo: git clone <https://github.com/souravdey398892-lgtm/My_Project/tree/master/My_Projects/Spam_Message_Classifier>
 
 
 &nbsp;
