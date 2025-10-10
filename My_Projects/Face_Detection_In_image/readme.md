@@ -88,7 +88,7 @@ Display the output image with detections
 
 
 
-Clone or download this repository
+Clone or download this repository: <https://github.com/souravdey398892-lgtm/My\_Project/tree/master/My\_Projects/Face\_Detection\_In\_image>
 
 
 
@@ -124,7 +124,7 @@ The detected faces will be displayed in a window.
 
 
 
-📌 Detected faces will be marked with rectangles 
+📌 Detected faces will be marked with rectangles
 
 
 
